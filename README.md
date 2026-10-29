@@ -30,6 +30,7 @@
   <a href="https://linkedin.com/in/touhiddnj" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/2485721" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" /></a>
   <a href="https://fb.com/touhid.dnj" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
+  <a href="https://hub.xerj.org/contributors/raptordnj" target="blank"><img src="https://img.shields.io/badge/XERJ%20Hub-raptordnj-0e75b6?style=for-the-badge" height="30" alt="XERJ Hub" /></a>
 </p>
 
 ---
